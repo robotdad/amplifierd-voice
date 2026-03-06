@@ -1,3 +1,6 @@
+# DEPRECATED
+Look to the Microsoft [amplifier vocie](https://github.com/microsoft/amplifier-voice) repo now.
+
 # amplifierd-voice
 
 Voice plugin for the [amplifierd](https://github.com/microsoft/amplifierd) daemon — WebRTC voice interface using the OpenAI Realtime API.
